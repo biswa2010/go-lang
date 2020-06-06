@@ -1,2 +1,3 @@
 https://play.golang.org/p/X5paRh5kUCG
 https://play.golang.org/p/1D3zvGKD4gG
+https://play.golang.org/p/HWGkmltl32H (employee struct with new() like java)

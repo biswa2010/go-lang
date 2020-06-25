@@ -3,3 +3,5 @@ https://play.golang.org/p/1D3zvGKD4gG
 https://play.golang.org/p/HWGkmltl32H (employee struct with new() like java)
 https://play.golang.org/p/6mNPBPALBR8 (composition example for blog post)
 https://play.golang.org/p/nF1scFF3Ubs (polimorphism)
+https://play.golang.org/p/t9BmM-hAdXa (split and get product details)
+https://play.golang.org/p/vxcZvfJ-y5W (find max occurence of a number in an array)
